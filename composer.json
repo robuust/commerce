@@ -52,6 +52,7 @@
     }
   },
   "extra": {
+    "version": "5.7.8.1",
     "handle": "commerce",
     "name": "Craft Commerce",
     "description": "Create beautifully bespoke ecommerce experiences",

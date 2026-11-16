@@ -2,6 +2,8 @@
 
 ## Unreleased (Robuust backport)
 
+- Preserve the semantic Commerce runtime version so Formie forms render when installing the backport from a development branch.
+
 - Preserve case-insensitive coupon usage limits and reduce catalog-pricing lock contention during concurrent imports. ([#4439](https://github.com/craftcms/commerce/pull/4439), [#4418](https://github.com/craftcms/commerce/pull/4418))
 
 ## 5.7.8 - 2026-11-04
