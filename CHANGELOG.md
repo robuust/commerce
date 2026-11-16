@@ -1,5 +1,9 @@
 # Release Notes for Craft Commerce
 
+## Unreleased (Robuust backport)
+
+- Preserve case-insensitive coupon usage limits and reduce catalog-pricing lock contention during concurrent imports. ([#4439](https://github.com/craftcms/commerce/pull/4439), [#4418](https://github.com/craftcms/commerce/pull/4418))
+
 ## 5.7.8 - 2026-11-04
 
 - Fixed a PHP error that could occur when matching shipping methods with a “Discounted Item Subtotal” condition on a cart or order containing a deleted purchasable. ([#4432](https://github.com/craftcms/commerce/issues/4432))
