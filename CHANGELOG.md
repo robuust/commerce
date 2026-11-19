@@ -1,5 +1,9 @@
 # Release Notes for Craft Commerce
 
+## Unreleased
+
+- Preserve catalog pricing queue and generation improvements on Commerce 5.7.9. ([#4418](https://github.com/craftcms/commerce/pull/4418))
+
 ## 5.7.9 - 2026-11-18
 
 - Fixed a bug where coupon uses weren’t counted on PostgreSQL if the coupon code’s casing didn’t match. ([#4464](https://github.com/craftcms/commerce/pull/4464))
